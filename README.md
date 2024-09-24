@@ -17,20 +17,24 @@ This project aims to predict the possibiltiy of heart disease in individuals bas
 
 The dataset used in this project is sourced from Kaggle. It contains various health parameters such as:
 
-- Age
+- AgeCategory
 - Sex
-- Chest Pain Type
-- Resting Blood Pressure
-- Serum Cholesterol
-- Fasting Blood Sugar
-- Resting ECG results
-- Maximum Heart Rate
-- Exercise Induced Angina
-- ST Depression
-- Peak Exercise ST Segment
-- Number of Major Vessels
-- Thalassemia
-- Target Variable (Presence of Heart Disease)
+- BMI
+- SleepTime
+- Mental Health
+- Physical Health
+- Smoking
+- Alcohol Drinking
+- Stroke
+- DiffWalking
+- Race
+- Diabetic
+- Phyisical Activity
+- General Health
+- Asthma
+- Kidney Disease
+- Skin Cancer
+- Target Variable (Heart Disease)
 
 ### Note
 
