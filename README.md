@@ -49,3 +49,5 @@ Make sure to preprocess the dataset before training the model. This includes han
 
 ## 🤝 Contributing
 
+If you would like to contribute to this project, please fork the repository and submit a pull request. Ensure that your changes are well-documented and tested.
+
