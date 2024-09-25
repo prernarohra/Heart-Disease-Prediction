@@ -1,10 +1,10 @@
 # :anatomical_heart:  Heart Disease Prediction
 
-## Overview
+## 📋 Overview
 
 This project aims to predict the possibiltiy of heart disease in individuals based on various health parameters using machine learning algorithms. The model uses historical health data to make predictions that can assist in early diagnosis.
 
-## Technologies Used
+## 🔧 Technologies Used
 
 - Python
 - Pandas
@@ -13,7 +13,7 @@ This project aims to predict the possibiltiy of heart disease in individuals bas
 - Matplotlib / Seaborn (for visualization)
 - Flask / Streamlit (for web application, if applicable)
 
-## Dataset
+## 📊 Dataset
 
 The dataset used in this project is sourced from Kaggle. It contains various health parameters such as:
 
@@ -40,7 +40,7 @@ The dataset used in this project is sourced from Kaggle. It contains various hea
 
 Make sure to preprocess the dataset before training the model. This includes handling missing values, encoding categorical variables, and normalizing numerical features.
 
-## Features
+## ✨ Features
 
 - Input health metrics to predict heart disease risk.
 - Model trained on various algorithms (e.g., Logistic Regression, Decision Trees, etc.) to find the most accurate model.
