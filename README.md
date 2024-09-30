@@ -29,9 +29,9 @@ The dataset used in this project is sourced from Kaggle. It contains various hea
 - DiffWalking: Difficulty in walking or climbing stairs (Yes or No).
 - Race: Race or ethnicity of the individual.
 - Diabetic: Diabetes diagnosis (Yes, No, or Borderline).
-- Phyisical Activity
-- General Health
-- Asthma
+- Phyisical Activity: Engagement in regular physical activity (Yes or No).
+- General Health: Self-assessed overall health status.
+- Asthma: Asthma diagnosis (Yes or No).
 - Kidney Disease
 - Skin Cancer
 - Target Variable (Heart Disease)
