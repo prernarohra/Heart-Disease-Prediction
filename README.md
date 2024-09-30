@@ -32,9 +32,9 @@ The dataset used in this project is sourced from Kaggle. It contains various hea
 - Phyisical Activity: Engagement in regular physical activity (Yes or No).
 - General Health: Self-assessed overall health status.
 - Asthma: Asthma diagnosis (Yes or No).
-- Kidney Disease
-- Skin Cancer
-- Target Variable (Heart Disease)
+- Kidney Disease: Kidney disease diagnosis (Yes or No).
+- Skin Cancer: Skin cancer diagnosis (Yes or No).
+- Target Variable (Heart Disease): Presence of heart disease (Yes or No).
 
 ### Note
 
