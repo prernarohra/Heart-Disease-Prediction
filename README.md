@@ -24,11 +24,11 @@ The dataset used in this project is sourced from Kaggle. It contains various hea
 - Mental Health: Days of poor mental health in the last 30 days.
 - Physical Health: Days of poor physical health in the last 30 days.
 - Smoking: Smoking status (Yes or No).
-- Alcohol Drinking
-- Stroke
-- DiffWalking
-- Race
-- Diabetic
+- Alcohol Drinking: Alcohol consumption status (Yes or No).
+- Stroke: History of stroke (Yes or No).
+- DiffWalking: Difficulty in walking or climbing stairs (Yes or No).
+- Race: Race or ethnicity of the individual.
+- Diabetic: Diabetes diagnosis (Yes, No, or Borderline).
 - Phyisical Activity
 - General Health
 - Asthma
