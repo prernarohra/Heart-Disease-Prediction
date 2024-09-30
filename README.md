@@ -19,11 +19,11 @@ The dataset used in this project is sourced from Kaggle. It contains various hea
 
 - AgeCategory: Age group or range of the individual.
 - Sex: Biological sex (Male or Female).
-- BMI:
-- SleepTime
-- Mental Health
-- Physical Health
-- Smoking
+- BMI: Body Mass Index, a measure of body fat.
+- SleepTime: Average hours of sleep per day.
+- Mental Health: Days of poor mental health in the last 30 days.
+- Physical Health: Days of poor physical health in the last 30 days.
+- Smoking: Smoking status (Yes or No).
 - Alcohol Drinking
 - Stroke
 - DiffWalking
