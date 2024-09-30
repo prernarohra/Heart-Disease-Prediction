@@ -17,9 +17,9 @@ This project aims to predict the possibiltiy of heart disease in individuals bas
 
 The dataset used in this project is sourced from Kaggle. It contains various health parameters such as:
 
-- AgeCategory
-- Sex
-- BMI
+- AgeCategory: Age group or range of the individual.
+- Sex: Biological sex (Male or Female).
+- BMI:
 - SleepTime
 - Mental Health
 - Physical Health
