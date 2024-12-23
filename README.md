@@ -45,7 +45,7 @@ Make sure to preprocess the dataset before training the model. This includes han
 - Input health metrics to predict heart disease risk.
 - Model trained on various algorithms (e.g., Logistic Regression, Decision Trees, etc.) to find the most accurate model.
 - Visualization of data and model performance metrics.
-- (Optional) Web application for user input and predictions using Flask or Streamlit.
+- (Optional) Web application for user input and predictions using Streamlit.
 
 ## 🤝 Contributing
 
